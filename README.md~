@@ -1,3 +1,3 @@
 # Lab3
 Practicing git commands
-Benny Sakiewicz
+Changed some stuff
