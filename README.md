@@ -1,6 +1,8 @@
 # Lab3
-Practicing git commands
-Ziwei Cheng
-Zoe Roy
+
+New Branch Commit
+Edited this file
+
+junyu branch change
 
 ziwei branch change
