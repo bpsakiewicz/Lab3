@@ -1,5 +1,7 @@
 # Lab3
 
+Project Team Members
+
 Practicing git commands
 
 Ziwei Cheng
